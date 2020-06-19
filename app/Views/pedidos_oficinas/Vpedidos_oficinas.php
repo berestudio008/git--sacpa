@@ -575,7 +575,7 @@
 
                         <td><a class="btn btn-primary" href="<?= base_url();?>/Pedidosoficinasmostrar">Mostrar</a></td>
                         <td><a class="btn btn-success" href="<?= base_url();?>/Pedidosoficinasmodificar">Modificar</a></td>
-                        <td><a class="btn btn-danger btn-sm" href="">Eliminar</a></td>
+                        <td><a class="btn btn-danger" href="">Eliminar</a></td>
                       </tr>
 
                     </tbody>
